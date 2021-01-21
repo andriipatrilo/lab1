@@ -5,7 +5,7 @@ class Teacher
 private:
 	struct Birthday
 	{
-		int day;
+		int day; 
 		int mounth;
 		int year;
 	};
